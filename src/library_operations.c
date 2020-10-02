@@ -1,21 +1,50 @@
 #include <library_operations.h>
 
-int add(int operand1, int operand2)
+int Addbook(int operand1, int operand2)
 {
     return operand1 + operand2;
 }
 
-int subtract(int operand1, int operand2)
+int Searchbook(int operand1, int operand2)
 {
     return operand1 - operand2;
 }
 
-int multiply(int operand1, int operand2)
+int Displaybook(int operand1, int operand2)
 {
     return operand1 * operand2;
 }
 
-int divide(int operand1, int operand2)
+int Author(int operand1, int operand2)
+{
+    return operand1 * operand2;
+}
+
+int Titlelist(int operand1, int operand2)
+{
+    return operand1 * operand2;
+}
+
+int Stock(int operand1, int operand2)
+{
+    return operand1 * operand2;
+}
+
+int Issue(int operand1, int operand2)
+{
+    return operand1 * operand2;
+}
+
+int bookret(int operand1, int operand2)
+{
+    return operand1 * operand2;
+}
+
+int Addmembr(int operand1, int operand2)
+{
+    return operand1 * operand2;
+}
+int Exit(int operand1, int operand2)
 {
     if(0 == operand2)
         return 0;
