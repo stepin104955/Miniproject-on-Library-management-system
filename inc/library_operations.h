@@ -11,7 +11,7 @@
 * @param[in] operand2 
 * @return Result of operand1 + operand2
 */
-int add(int operand1, int operand2);
+int Add A New Book(int operand1, int operand2);
 
 /**
 *  subtracts the operand1, operand2 and returns the result
