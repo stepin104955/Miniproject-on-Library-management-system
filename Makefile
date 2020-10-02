@@ -10,7 +10,7 @@ SRC = project_main.c\
 
 # All test source files
 TEST_SRC = src/library_operations.c\
-#test/test_library_operations.c
+test/test_library_operations.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
