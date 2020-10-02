@@ -35,7 +35,6 @@ int main() {
   CU_add_test(suite, "Titlelist", test_Titlelist);
   CU_add_test(suite, "Stock", test_Stock);
   CU_add_test(suite, "Issue", test_Issue);
-  CU_add_test(suite, "divide", test_divide);
   CU_add_test(suite, "bookret", test_bookret);
   CU_add_test(suite, "Addmembr", test_Addmembr);
   CU_add_test(suite, "Exit", test_Exit);
