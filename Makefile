@@ -44,4 +44,3 @@ clean:
 # Create new build folder if not present
 $(BUILD):
 	mkdir build
-© 2020 GitHub, Inc.
