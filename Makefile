@@ -2,7 +2,7 @@
 PROJECT_NAME = Library
 
 # Output directory
-BUILD = build
+BUILD = build 
 
 # All source code files
 SRC = project_main.c\
