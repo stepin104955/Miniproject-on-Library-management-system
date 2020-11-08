@@ -46,7 +46,7 @@ int Addmembr(int operand1, int operand2)
 }
 int Exit(int operand1, int operand2)
 {
-    if(0 == operand2)
+    if(operand2 == 0)
         return 0;
     else
         return operand1 / operand2;
