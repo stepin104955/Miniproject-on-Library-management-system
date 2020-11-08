@@ -3,7 +3,7 @@
 #include<string.h>
 #include<stdlib.h>
 
-#define IN 1
+#define IN 1 
 #define OUT 0
 
 void Addbook();
