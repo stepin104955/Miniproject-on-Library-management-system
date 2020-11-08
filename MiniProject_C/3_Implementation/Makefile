@@ -1,7 +1,6 @@
 # Name of the project  
 PROJECT_NAME = Library
 
-
 # Output directory
 BUILD = build
 
