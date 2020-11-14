@@ -1,11 +1,11 @@
 #include <library_operations.h>
 
-int Addbook(int operand1, int operand2)
+int Addbook1(int operand1, int operand2)
 {
     return operand1 + operand2;
 }
 
-int Searchbook(int operand1, int operand2)
+/*int Searchbook(int operand1, int operand2)
 {
     return operand1 - operand2;
 }
@@ -43,8 +43,8 @@ int bookret(int operand1, int operand2)
 int Addmembr(int operand1, int operand2)
 {
     return operand1 * operand2;
-}
-int Exit(int operand1, int operand2)
+}*/
+int Exit0(int operand1, int operand2)
 {
     if(operand2 == 0)
         return 0;
