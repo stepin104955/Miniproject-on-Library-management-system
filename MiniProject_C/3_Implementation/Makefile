@@ -1,4 +1,4 @@
-# Name of the project  
+# Name of the project
 PROJECT_NAME = Library
 
 # Output directory
@@ -51,4 +51,3 @@ clean:
 # Create new build folder if not present
 $(BUILD):
 	mkdir build
-
